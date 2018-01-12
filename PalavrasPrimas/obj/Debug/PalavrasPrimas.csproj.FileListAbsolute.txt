@@ -1,0 +1,5 @@
+c:\users\adm\documents\visual studio 2012\Projects\ProjetoPalavrasPrimas\PalavrasPrimas\bin\Debug\PalavrasPrimas.dll
+c:\users\adm\documents\visual studio 2012\Projects\ProjetoPalavrasPrimas\PalavrasPrimas\bin\Debug\PalavrasPrimas.pdb
+c:\users\adm\documents\visual studio 2012\Projects\ProjetoPalavrasPrimas\PalavrasPrimas\obj\Debug\PalavrasPrimas.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2012\Projects\ProjetoPalavrasPrimas\PalavrasPrimas\obj\Debug\PalavrasPrimas.dll
+c:\users\adm\documents\visual studio 2012\Projects\ProjetoPalavrasPrimas\PalavrasPrimas\obj\Debug\PalavrasPrimas.pdb
